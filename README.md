@@ -1,16 +1,11 @@
-# word_hurdle
+Word Hurdle Game
+Guess the Word and Have Fun!
+Word Hurdle Game is a simple and fun puzzle game built with Flutter. The goal is to guess a 5-letter word within a set number of tries. It's perfect for quick gameplay and improving your word-guessing skills!
 
-A new Flutter project.
+Features
+Simple Gameplay: Guess the 5-letter word and see how fast you can solve it.
+Daily Word Challenges: A new word puzzle every day for consistent fun!
+Interactive Feedback: Get real-time hints with correct letters marked in green and incorrect ones in red.
+Minimalist Design: Clean, intuitive UI for a smooth and enjoyable experience.
+Offline Mode: Play anywhere, no internet needed.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
